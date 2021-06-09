@@ -1,0 +1,190 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-top: 50px;
+}
+
+.menu {
+    background-color: blue;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+}
+
+.menu a:hover {
+    background-color: gray;
+}
+
+.home {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    ;
+    background-color: bisque
+}
+
+.home h1 {
+    font-family: cursive;
+}
+
+.home p {
+    text-align: center;
+    color: cadetblue;
+}
+
+.home img {
+    border: 5px solid;
+    height: 300px;
+    width: 280px;
+    margin-left: 150px;
+}
+
+.home {
+    background-color:blueviolet;
+    padding: 1% 7%;
+    color:yellow;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.home::after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+.aboutme {
+    background-color: blue;
+    padding: 1% 7%;
+    color: yellow;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.aboutme::after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+.div-clr {
+    clear: both;
+}
+
+.aboutme img {
+    border: 5px solid;
+    border-radius: 50%;
+    height: 300px;
+    width: 280px;
+    margin-left: 150px;
+}
+
+.dotted-hr {
+    border: dotted 6px white;
+    border-bottom: none;
+    margin: 20px auto;
+    width: 60px;
+}
+
+.aboutme p {
+    font-size: 1.5rem;
+}
+
+.skills {
+    background-color:rgb(45, 245, 19);
+    padding: 1% 7%;
+    color: wheat;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.skills::after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+.skills p {
+    text-align: left;
+}
+
+.contact {
+    background-color: yellowgreen;
+    padding: 1% 7%;
+    color: white;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.contact::after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+
+
+.images {
+    background-color: yellowgreen;
+    padding: 1% 7%;
+    color: white;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.images::after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+.hobbies {
+    background-color: yellowgreen;
+    padding: 1% 7%;
+    color: white;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.hobbies::after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+.f10cds {
+    background-color: yellowgreen;
+    padding: 1% 7%;
+    color: white;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.f10cds::after {
+    clear: both;
+    display: table;
+    content: '';
+}
+
+.flink {
+    background-color: yellowgreen;
+    padding: 1% 7%;
+    color: white;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.flink::after {
+    clear: both;
+    display: table;
+    content: '';
+}
